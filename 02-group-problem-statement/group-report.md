@@ -6,10 +6,10 @@
 
 | STT | Họ và tên | Mã học viên | Vai trò trong nhóm (VD: facilitator, workflow, research, writer) |
 |-----|-----------|-------------|---------------------------------------------------------------|
-|1   |    Hồ Hoàng Phương Anh         |      2A20260460       |           research                                                    |
-| 2   |           |             |                                                               |
-| 3   |           |             |                                                               |
-| 4   |           |             |                                                               |
+| 1   |    Hồ Hoàng Phương Anh  |    2A20260460     |           facilitator                    |
+| 2   |    Tô Anh Đức           |    2A20260239     |           research                       |
+| 3   |    Nguyễn Phúc Huy      |    2A202602911    |           writer                         |
+| 4   |    Ngô Hoàng Thuỵ Khuê  |    2A202603017    |           workflow                       |
 
 **Candidate problem nhóm chọn (1 câu):**
 Mỗi lần đi chơi, nhóm 4–8 người mất 20–40 phút vòng "đi đâu?" trên chat; người đứng ra book phải tự đọc hết preference rồi đoán.
